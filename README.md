@@ -1,7 +1,7 @@
 # PlotDigitizer
 A TKinter tool that helps you extract X-Y pairs data from 2D plots.You can launch PlotDigitizer from tk_UI.py.
 
-中文演示视频是DEMO.mp4.
+中文演示视频是DEMO.mp4（文件大小限制，完整版在B站）.
 [B站链接](https://www.bilibili.com/video/BV1m5411N745/)
 
 ![image](https://user-images.githubusercontent.com/29700905/109643721-97aa6b00-7b8f-11eb-9b34-9927a4041def.png)
